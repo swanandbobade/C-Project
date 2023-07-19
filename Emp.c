@@ -33,7 +33,7 @@
     void guideline();
 
 
-        //Main Function
+   
     void main(){
         title();
         login();
@@ -41,7 +41,7 @@
     }
     
 
-    //For Displaying the Title Screen
+
     void title(){
         system("cls");
         printf("\n > Employee Management System");
